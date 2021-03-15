@@ -1,0 +1,6 @@
+OUT_OF_BOUNDS_EXCEPTION = "Input Point is out of bounds"
+NON_LINEAR_LINE_EXCEPTION = "Input Line is not Horizontal or Vertical"
+INVALID_INPUT_EXCEPTION = "The input provided is invalid or Non Readable"
+COLOR_LENGTH_EXCEPTION = "The input color name should be of length 1, like 'g' or 'c'"
+NO_INPUT_PROVIDED_EXCEPTION = "No Input has been provided"
+NO_CANVAS_EXCEPTION = "Canvas must be drawn before any other operation"
